@@ -1,4 +1,4 @@
-# 📊 Sales and Outlet Performance Analysis
+# 📊 Blinkit
 
 Welcome to the **Sales and Outlet Performance Analysis** project! This project, created in Power BI, provides an in-depth exploration of sales and outlet performance data through engaging and interactive visualizations.
 

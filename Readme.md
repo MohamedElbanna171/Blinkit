@@ -41,6 +41,8 @@ Here's a glimpse of one of the dashboards:
 
 ![Sales Dashboard Example](image.png)
 
+![Sales Dashboard Example](image2.png)
+
 ---
 
 Feel free to explore the dashboards and leverage the insights for data-driven decision-making! 😊
